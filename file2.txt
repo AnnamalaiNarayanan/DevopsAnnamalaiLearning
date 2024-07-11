@@ -1,1 +1,2 @@
 This is the newbranch version file
+This is the newbranch Line2 added
