@@ -1,0 +1,2 @@
+This line1 added from local
+This line2 added from Git
