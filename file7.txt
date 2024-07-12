@@ -1,1 +1,2 @@
 Line1 created for version 7 from git local
+Line 2 created for Version 7 from git app
